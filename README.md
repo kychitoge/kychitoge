@@ -10,5 +10,5 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E11D48&center=true&vCenter=true&width=500&lines=Information+Systems+Student;Learn,+learn+more,+learn+forever" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E11D48&center=true&vCenter=true&width=500&lines=Learn,+learn+more,+learn+forever" alt="Typing SVG" />
 </p>
